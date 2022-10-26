@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a User Interface Designer at Kansas State University.
+
+I have a degree in Graphic Design and a certification in User Experience.
+
+
 <!--
 **dcburke/dcburke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
