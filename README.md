@@ -2,7 +2,7 @@
 
 I'm a User Interface Designer at Kansas State University.
 
-I have a degree in Graphic Design and a certification in User Experience.
+I have a degree in Graphic Design and hold a certification in User Experience.
 
 
 <!--
